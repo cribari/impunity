@@ -7,3 +7,5 @@ Francisco Cribari-Neto
 # File
 impunity-public.csv
 
+# Contact 
+francisco [dot] cribari [at] ufpe [dot] br 
