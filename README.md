@@ -1,4 +1,4 @@
-# An empirical analysis of worldwide impunity
+# Explaining Cross-Country Variation in Impunity: Further Evidence from Bounded Regression Models
 Explaining Cross-Country Variation in Impunity: Further Evidence from Bounded Regression Models
 
 # Authors
