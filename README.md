@@ -21,5 +21,5 @@ If you use these materials, please cite the original article:
 
 > Cribari-Neto, F.; Souza, T.C.; Reis, M.A.F. (2026) "Explaining cross-country variation in impunity: Further evidence from bounded regression models". Working paper, Department of Statistics, Federal University of Pernambuco, Brazil. 
 
-# Contact 
+## Contact 
 francisco [dot] cribari [at] ufpe [dot] br 
