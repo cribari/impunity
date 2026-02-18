@@ -1,11 +1,11 @@
 # An empirical analysis of worldwide impunity
-Data on worldwide impunity levels
+Explaining Cross-Country Variation in Impunity: Further Evidence from Bounded Regression Models
 
-# Author
-Francisco Cribari-Neto
+# Authors
+Francisco Cribari-Neto, Tatiene C. Souza, Márcia A. F. Reis
 
-# File
-impunity-public.csv
+# Files
+data-impunity.csv
 
 # Contact 
 francisco [dot] cribari [at] ufpe [dot] br 
