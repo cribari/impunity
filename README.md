@@ -1,4 +1,4 @@
-# Explaining Cross-Country Variation in Impunity: Further Evidence from Bounded Regression Models
+# Cross-Country Impunity Modeling 
 Explaining Cross-Country Variation in Impunity: Further Evidence from Bounded Regression Models
 
 # Authors
