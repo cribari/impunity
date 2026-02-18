@@ -8,7 +8,7 @@ Francisco Cribari-Neto, Tatiene C. Souza, Márcia A. F. Reis
 
 | File | Description |
 |------|-------------|
-| `data_impunity.csv` | Dataset with country-level variables on atheism prevalence and intelligence indicators |
+| `data_impunity.csv` | Dataset with country-level variables on impunity prevalence |
 | `script_01.R` | R script to read the data and reproduce key results from the article |
 
 # Contact 
