@@ -1,5 +1,5 @@
 # Cross-Country Impunity Modeling 
-Replication materials for selected results presented in the article Explaining Cross-Country Variation in Impunity: Further Evidence from Bounded Regression Models
+Replication materials for selected results presented in the article **"Explaining Cross-Country Variation in Impunity: Further Evidence from Bounded Regression Models"**
 
 # Authors
 Francisco Cribari-Neto, Tatiene C. Souza, Márcia A. F. Reis
